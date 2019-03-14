@@ -25,6 +25,7 @@ product.txt:
 
 aspect.txt:
 - The aspects' names.
+- We use *Sentires* to extract aspects from user reviews. The tool is available at [here](http://yongfeng.me/software/).
 - Line `n` is the orginal name of aspect whose id is `n-1`
 
 user_aspect_rank.txt:
