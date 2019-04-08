@@ -2,7 +2,16 @@
 
 This is our implementation for the paper:
 
-Xinyu Guan, Zhiyong Cheng, Xiangnan He, Yongfeng Zhang, Zhibo Zhu, Qinke Peng and Tat-Seng Chua. Attentive Aspect Modeling for Review-aware Recommendation[J]. ACM Transactions on Information Systems (TOIS).
+@article{guan2019attentive,
+  title={Attentive Aspect Modeling for Review-aware Recommendation},
+  author={Guan, Xinyu and Cheng, Zhiyong and He, Xiangnan and Zhang, Yongfeng and Zhu, Zhibo and Peng, Qinke and Chua, Tat-Seng},
+  journal={ACM Transactions on Information Systems (TOIS)},
+  volume={37},
+  number={3},
+  pages={28},
+  year={2019},
+  publisher={ACM}
+}
 
 **Please cite our TOIS paper if you use our codes.**
 
