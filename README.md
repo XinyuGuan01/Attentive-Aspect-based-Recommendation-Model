@@ -66,6 +66,6 @@ The instruction of commands has been clearly stated in the codes (see the parse_
 
 Run aarm:
 ```
-python running.py --productName Beauty --is_l2_regular 1 --lamda_l2 0.1 --is_out_l2 0 --dropout 0.5 --learning_rate 0.003 --num_aspect_factor 128 --num_mf_factor 128
+python running.py --productName Beauty --is_l2_regular 1 --lamda_l2 0.1 --is_out_l2 0 --dropout 0.5 --learning_rate 0.001 --num_aspect_factor 128 --num_mf_factor 128
 ```
 
